@@ -1,0 +1,7 @@
+{
+  "name": "app_jobinone",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue"
+}
